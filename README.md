@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Exploring AI Agents and their applications in Full-Stack development.**
 
-- 💬 Ask me about **React, Next.js, JavaScript,Typescript, Node**
+- 💬 Ask me about **React, Next.js, JavaScript,Typescript, Node,  Nestjs, mongodb, posgtgresql**
 
 - 📫 How to reach me **pramodsamota21@gmail.com**
 
